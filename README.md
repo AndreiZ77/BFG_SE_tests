@@ -1,4 +1,4 @@
-# Auto tests for the BFG test site
+# Auto tests for the BFG company test site
 (http://autotest-b8ns9mw7.bfg-soft.ru/)
 
 First of all, you need to install:
